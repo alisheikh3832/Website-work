@@ -1,0 +1,51 @@
+@font-face {
+    font-family:"Italic" ;
+    src: url(Italianno-Regular.ttf);
+}
+@font-face {
+    font-family: 'Abc';
+    src: url('NotoSerif-VariableFont_wdth\,wght.ttf');
+}
+h1,h2{
+    color: rgb(13, 13, 207);font-family: 'Abc';
+}
+p{
+    font-family: "Abc";
+    border: 1px solid black;
+    background-color: lightblue;
+}
+*{
+    font-family: "Abc"; font-weight: 600;
+}
+.text{
+    font-size: 15px;
+    width: auto;
+}
+h1,h2{
+    text-shadow: 3px 3px 4px #000;
+    word-spacing: 5px;
+}
+h1,h2{
+   background-color: cyan;
+    border: 5px solid black;
+}
+*{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+*{
+     line-height: normal;
+     vertical-align: auto;
+    word-spacing: normal;
+    letter-spacing: normal;
+/* text-indent: 10px; */
+
+}
+h1:hover{
+    
+}
+.ASD{
+    padding: 20px;
+    border: 1px solid black;
+    background-color: lightblue;
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "NotoNew";
+    src: url( NotoSerif-Italic-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: "New" ;
+    src: url(<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">) ;
+    @font-face {
+        font-family: "Xyz";
+        src: url(font-family: "Playwrite MX", cursive;);
+    }
+}
+.Name{
+    font-family: "NotoNew" ;
+}
+p{
+    
+}
